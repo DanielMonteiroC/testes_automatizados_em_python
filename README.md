@@ -52,4 +52,4 @@ As atividades realizadas incluem:
 
 ---
 
-[Clique aqui](./Relatorio.pdf) para ser redirecionado a uma versão em pdf do relatório.
+[Clique aqui](./Relatorio.pdf) para ser redirecionado a uma versão em pdf do relatório contendo a conclusão.
