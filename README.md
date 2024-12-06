@@ -51,3 +51,5 @@ As atividades realizadas incluem:
     - Verificação do enésimo número para entradas válidas e inválidas.
 
 ---
+
+[Clique aqui](./Relatorio.pdf) para ser redirecionado a uma versão em pdf do relatório.
