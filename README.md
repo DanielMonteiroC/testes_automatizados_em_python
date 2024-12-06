@@ -1,8 +1,13 @@
+![image](img/Universidade_Vassouras_Logo.png)
+
 # Relatório do Trabalho de Testes Automatizados
 
 **Trabalho de Testes Automatizados em Python**  
-**Disciplina**: Arquitetura e Projeto de Software  
+
+**Disciplina**: Arquitetura e Projeto de Software
+
 **Professor**: Sidney Loyola de Sá
+
 **Aluno**: Daniel Monteiro de Carvalho 202212193  
 
 ---
